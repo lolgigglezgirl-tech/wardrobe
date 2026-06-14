@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Wardrobe — Complete</title>
-  <link rel="manifest" href="manifest.json">
+  <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#111827">
   <style>
     :root{--bg:#ffffff;--muted:#6b7280;--accent:#111827;--card:#ffffff;--border:#e6e6e6;--primary:#111827;--soft:#f7f7f7}
@@ -285,5 +285,4 @@
   </script>
 </body>
 </html>
-<!-- rebuild 2026-06-14T00:55:38.1530945-04:00 -->
 
